@@ -6,6 +6,9 @@
 
 3.檔案之API : 
   當月份資料
+  
   https://plvr.land.moi.gov.tw/DownloadHistory?type=history&fileName=20190821
+  
   季資料
+  
   https://plvr.land.moi.gov.tw//DownloadSeason?season=108S2&type=zip&fileName=lvr_landxml.zip
